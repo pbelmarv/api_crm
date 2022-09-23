@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro Pablo Belmar",
+      "empresa": "Mi empresa editada",
+      "email": "pbelmarv@hotmail.com",
+      "telefono": "945570392",
+      "notas": "Cliente solicita cotización",
+      "id": 4
+    },
+    {
+      "nombre": "Pedro Pablo",
+      "empresa": "sdfsdfsdf",
+      "email": "mail@mail.com",
+      "telefono": "231321",
+      "notas": "asdasd",
+      "id": 6
+    },
+    {
+      "nombre": "Pedro Pablo",
+      "empresa": "sdfsdfsdf",
+      "email": "mail@mail.com",
+      "telefono": "231321",
+      "notas": "asdasd",
+      "id": 7
+    },
+    {
+      "nombre": "Pedro Pablo",
+      "empresa": "sdfsdfsdf",
+      "email": "mail@mail.com",
+      "telefono": "231321",
+      "notas": "asdasd   asasas",
+      "id": 8
+    },
+    {
+      "nombre": "Pedro Pablo",
+      "empresa": "Mi empresa",
+      "email": "mail@mail.com",
+      "telefono": "945570392",
+      "notas": "Cliente pide servicio de despacho",
+      "id": 9
+    },
+    {
+      "nombre": "Nuevo Cliente",
+      "empresa": "Nueva Empresa",
+      "email": "mail@empresa.com",
+      "telefono": "222222222",
+      "notas": "Nueva empresa agregada",
+      "id": 10
+    },
+    {
+      "nombre": "cliente 4 actualizado",
+      "empresa": "empresa 4",
+      "email": "mail4@mail.com",
+      "telefono": "944444444",
+      "notas": "Es el cliente 4\n\nSeeeeeeeeeeeeee",
+      "id": 11
+    }
+  ]
+}
